@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Desktop/airflow_kafka/mlruns/0/7c50e9b6774847ac83bac76830154d73/artifacts
+end_time: 1720962065348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c50e9b6774847ac83bac76830154d73
+run_name: useful-kit-642
+run_uuid: 7c50e9b6774847ac83bac76830154d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720962061731
+status: 3
+tags: []
+user_id: mac

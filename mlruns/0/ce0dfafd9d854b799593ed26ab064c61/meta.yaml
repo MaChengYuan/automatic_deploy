@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Desktop/airflow_kafka/mlruns/0/ce0dfafd9d854b799593ed26ab064c61/artifacts
+end_time: 1720962025808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce0dfafd9d854b799593ed26ab064c61
+run_name: grandiose-moth-227
+run_uuid: ce0dfafd9d854b799593ed26ab064c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720962022090
+status: 3
+tags: []
+user_id: mac

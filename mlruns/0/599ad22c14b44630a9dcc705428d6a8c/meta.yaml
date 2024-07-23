@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Desktop/airflow_kafka/mlruns/0/599ad22c14b44630a9dcc705428d6a8c/artifacts
+end_time: 1720951929582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 599ad22c14b44630a9dcc705428d6a8c
+run_name: nosy-koi-913
+run_uuid: 599ad22c14b44630a9dcc705428d6a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720951926702
+status: 3
+tags: []
+user_id: mac

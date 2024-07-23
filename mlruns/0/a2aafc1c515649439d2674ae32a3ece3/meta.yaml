@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Desktop/airflow_kafka/mlruns/0/a2aafc1c515649439d2674ae32a3ece3/artifacts
+end_time: 1720951780342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2aafc1c515649439d2674ae32a3ece3
+run_name: inquisitive-fox-112
+run_uuid: a2aafc1c515649439d2674ae32a3ece3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720950523540
+status: 3
+tags: []
+user_id: mac
